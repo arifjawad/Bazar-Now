@@ -6,5 +6,5 @@ A home delivery and shopping system where user can order online and track delive
 <br>Also visit Wiki [HERE](https://github.com/arifjawad/Bazar-Now/wiki) for documents.
 
 
-This is the landing page<br>
+<br><br>
 ![](https://github.com/arifjawad/Bazar-Now/blob/master/screenshots/landingpage.png?raw=true)
